@@ -1,7 +1,10 @@
 # Creative Mayhem, Ltd.
 
-We build systems that operate across protocol, narrative, and infrastructure in the space where data, systems, media, memory, networks, and control converge.
+We build secure intelligent systems that operate across protocol, narrative, and infrastructure in the space where data, systems, media, networks, and security converge.
 
+Flagship Product: Memescreamer - demo at http://doomscroll.fm
+
+Serious Inquries: 💼 info@creativemayhem.ltd
 Serious Inquries: 
 
 💼 [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)
