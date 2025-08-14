@@ -18,9 +18,7 @@ Built for environments where compromise is expected and trust must be mathematic
 **Memescreamer** is an autonomous media generation utility that transforms global news into emotionally resonant, AI-generated content — complete with voice, music, video, and story structure.  
 It powers commentary, understands emotional context, and orchestrates entire broadcasts — fully automated, without human bottlenecks.
 
-The **Memescreamer Study** is our ongoing live testbed for orchestrating narrative at scale, proving how automated systems can scan, interpret, and inject signals into the cultural bloodstream faster than any human editorial cycle.
-
-**[Doomscroll.fm](https://doomscroll.fm)** is the proof-of-concept deployment — a relentless 24/7 broadcast that stitches together headlines, music, and satire into an unfiltered cultural indictment in real time.
+**[Doomscroll.fm](https://doomscroll.fm)** is the proof-of-concept deployment — An ongoing live testbed for orchestrating narrative at scale, proving how automated systems can scan, interpret, and inject signals into the cultural bloodstream faster than any human editorial cycle in a relentless 24/7 broadcast that stitches together headlines, music, and satire into an unfiltered cultural indictment in real time.
 
 ---
 
