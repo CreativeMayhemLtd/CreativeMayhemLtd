@@ -34,8 +34,8 @@ The **Memescreamer Study** is our ongoing live testbed for orchestrating narrati
 - **PICARD** — Protocol-Introspecting Chunk Adapter for Resilient Data, an “any protocol as a filesystem” data infiltration/exfiltration test tool  
 - Real-time RF signature detection, tracking/mapping, correlation, and jamming systems  
 - Low-power, high-range private digital video/audio and analog broadcast systems  
-- **RAINS** (Project shelved in 2019) — Nano-cell GSM: creating secure, reliable, free telecommunications for all ([archived site](https://web.archive.org/web/20181129203405/http://www.rains.io/))  
-- Automatic software evaluation, detonation, and SBOM tool following NIST SP-800-53 SC-44
+- **RAINS** *(Project shelved in 2019)* — Nano-cell GSM: creating secure, reliable, free telecommunications for all ([archived site](https://web.archive.org/web/20181129203405/http://www.rains.io/))  
+- Automatic software evaluation, detonation, and SBOM tool following NIST SP-800-53 SC-44  
 
 ---
 
@@ -77,13 +77,12 @@ The **Memescreamer Study** is our ongoing live testbed for orchestrating narrati
 ---
 
 ## 🧭 Ethos
-We operate with precision, speed, and resilience:
 
-Engineer for the challenges others overlook.
+We operate with precision, speed, and resilience:  
 
-Execute in environments others avoid.
-
-Deliver systems that perform flawlessly, scale globally, and stand the test of time.
+- Engineer for the challenges others overlook.  
+- Execute in environments others avoid.  
+- Deliver systems that perform flawlessly, scale globally, and stand the test of time.  
 
 ---
 
