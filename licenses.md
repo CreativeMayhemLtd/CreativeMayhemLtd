@@ -1,8 +1,7 @@
 # Creative Mayhem — License Information
 
 ## Proprietary Code
-All code, workflows, and system arrangements authored by **Creative Mayhem Ltd.** are proprietary and commercial unless expressly licensed otherwise.   
-No rights are granted to copy, distribute, or reuse these components without explicit written permission.  
+All code, workflows, and system arrangements authored by **Creative Mayhem Ltd.** are proprietary and commercial unless expressly licensed otherwise. No rights are granted to copy, distribute, or reuse these components without explicit written permission.  
 
 **© Creative Mayhem Ltd. 2025. All Rights Reserved.**
 
