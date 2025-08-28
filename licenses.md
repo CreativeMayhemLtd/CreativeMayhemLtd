@@ -1,4 +1,4 @@
-# Creative Mayhem Project — License Information
+# Creative Mayhem — License Information
 
 ## Proprietary Code
 All code, workflows, and system arrangements authored by **Creative Mayhem Ltd.** are proprietary and commercial.  
