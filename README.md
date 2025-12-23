@@ -1,24 +1,41 @@
-# Creative Mayhem Ltd.
+# Creative Mayhem, Ltd.
 
-**Creative Mayhem Ltd.** operates at the intersection of protocol, narrative, and infrastructure — building, breaking, and reimagining systems where control, data, and culture collide.  
-We work in adversarial environments, under hostile timelines, and with unconventional tools.
+### Human tools for a post-platform world
 
----
+Creative Mayhem is a hybrid consultancy, studio, and lab building systems that keep people connected to meaning, value, and each other in an age dominated by automation.  
 
-## 🚀 Live Projects
-
-### [Fingrr] *(Pending Release)*
-**Fingrr** is a next-generation secure messaging and object-validation network that keeps communication untouchable, untraceable, and unprovable.  
-It blends BitTorrent’s resilience, Tor’s anonymity, and Signal’s encryption to guarantee provable trust, privacy, and message authenticity in the most hostile conditions.  
-Built for environments where compromise is expected and trust must be mathematically provable.
+We create **human-scale infrastructure** for a world that’s scaling away from people — tools for those who still want to make, trade, play, and communicate.
 
 ---
 
-### [Memescreamer](https://github.com/CreativeMayhemLtd/memescreamer)
-**Memescreamer** is an autonomous media generation utility that transforms global news into emotionally resonant, AI-generated content — complete with voice, music, video, and story structure.  
-It powers commentary, understands emotional context, and orchestrates entire broadcasts — fully automated, without human bottlenecks.
+## What We’re Currently Building
 
-**[Doomscroll.fm](https://doomscroll.fm)** is the proof-of-concept deployment — An ongoing live testbed for orchestrating narrative at scale, proving how automated systems can scan, interpret, and inject signals into the cultural bloodstream faster than any human editorial cycle in a relentless 24/7 broadcast that stitches together headlines, music, and satire into an unfiltered cultural indictment in real time.
+### [Memescreamer](https://memescreamer.com)
+An experimental media engine that turns the daily noise of the internet into autonomous broadcast.  
+Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration.  
+Proof of concept at [**Doomscroll.fm**](https://doomscroll.fm)
+
+---
+
+## Our Philosophy
+
+Humans will need independent, peer-to-peer systems to survive in B2AI economies.  
+Creative Mayhem builds those systems — practical tools for communication, entertainment, exchange, and creative resilience.  
+
+We design for clarity, autonomy, and endurance. Our work favors small, local, inspectable tools over opaque networks. What matters is keeping human circuits alive and generative, not nostalgic.
+
+---
+
+## Security and Integrity
+
+Security is not a feature — it is a condition.  
+A system remains secure only while it’s observable, understandable, and within human control.  
+We build with privacy, minimal data, and independence in mind.  
+
+**Our principles:**
+- **Transparency:** Trust comes from visibility and comprehension.  
+- **Autonomy:** Control belongs to the operator, not the vendor.  
+- **Resilience:** Systems should serve human intent, even under stress or failure.  
 
 ---
 
