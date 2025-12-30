@@ -38,6 +38,4 @@
 ---
 
 ## 4. ToS / DPA Legal Language
-*Include this paragraph in your public Terms of Service.*
-
 > "By using Sortalizer, you authorize Creative Mayhem to engage OpenAI and Tavily as sub-processors for the purpose of item analysis. We have entered into Data Processing Addendums with these providers to ensure your data is processed according to EU standards. You acknowledge that while we summarize marketplace data, the final responsibility for verifying the accuracy of these 'unfiltered' results remains with the human user.".
