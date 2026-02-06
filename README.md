@@ -1,4 +1,4 @@
-# Creative Mayhem, Ltd.
+# Creative Mayhem.
 
 ### Human tools for a post-platform world
 
