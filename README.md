@@ -103,8 +103,8 @@ We operate with precision, speed, and resilience:
 
 ## 📡 Contact
 
-💼 [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)  
-🔣 [creativemayhem.ltd](https://creativemayhem.ltd)  
+💼 [info@creativemayhem.com](mailto:info@creativemayhem.com)  
+🔣 [creativemayhem.com](https://creativemayhem.com)  
 📡 [memescreamer.com](https://memescreamer.com)  
 🛰️ [doomscroll.fm](https://doomscroll.fm)  
 
