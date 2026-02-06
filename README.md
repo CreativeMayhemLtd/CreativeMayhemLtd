@@ -108,4 +108,4 @@ We operate with precision, speed, and resilience:
 📡 [memescreamer.com](https://memescreamer.com)  
 🛰️ [doomscroll.fm](https://doomscroll.fm)  
 
-© Creative Mayhem Ltd. — Some rights reserved, others deliberately unreserved.
+© Creative Mayhem — Some rights reserved, others deliberately unreserved.
